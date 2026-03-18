@@ -1,0 +1,12 @@
+package pt.rafap.findaway.app
+
+
+/**
+ * Entry point for the desktop Reversi application. Initializes app dependencies
+ * and launches the Compose window with the current `AppState`.
+ *
+ * @param args Optional command-line arguments forwarded to initialization.
+ */
+fun main(args: Array<String>) {
+	println("Hello, world!")
+}
