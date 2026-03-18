@@ -1,7 +1,7 @@
 @file:Suppress("UnstableApiUsage")
 
 
-rootProject.name = "reversi"
+rootProject.name = "findAway"
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
